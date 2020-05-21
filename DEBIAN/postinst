@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #背景画像
-ln -nfs /usr/share/serene/serene-wallpaper-1.png /etc/alternatives/desktop-background
+ln -nfs /usr/share/backgrounds/paper-town/background-1.jpg /etc/alternatives/desktop-background
 
 #背景の設定ファイル（Xfceの設定とは別）
 ln -nfs /usr/share/images/desktop-base/serene.xml /etc/alternatives/desktop-background.xml

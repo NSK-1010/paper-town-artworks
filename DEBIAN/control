@@ -1,5 +1,5 @@
-Maintainer: Serene Team <serenelinux.dev@gmail.com>
-Package: serenelinux-artworks
+Maintainer: PianoCat <kotone.oln1010@gmail.com>
+Package: paper-town-artworks
 Depends: 
 Section: artworks
 Version: 1.0.0
@@ -7,5 +7,5 @@ Essential: yes
 Architecture: all
 Description: artworks
  wallpaper, icons and logos.
-Homepage: https://serenelinux.com/
+Homepage: https://nsk-1010.github.io/paper-town/
 Priority: required
